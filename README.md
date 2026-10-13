@@ -7,7 +7,9 @@ Destino soportado: **GeneXus 18 U9 · WorkWithPlus 15 U2.11**
 
 ## Descargar
 
-👉 **[Descargar la última versión](https://github.com/pxtools2wwp/conversor/releases/latest)**
+👉 **[Descargar ConversorPxToolsWWP.exe](https://github.com/pxtools2wwp/conversor/releases/latest/download/ConversorPxToolsWWP.exe)**
+
+Ese enlace entrega siempre la versión más reciente, así que sirve para siempre.
 
 Es un solo archivo, `ConversorPxToolsWWP.exe`. No requiere instalar Python ni nada más:
 se copia y se ejecuta.
