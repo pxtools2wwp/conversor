@@ -1,6 +1,6 @@
 {
-  "version": "0.2.0",
-  "url": "https://github.com/pxtools2wwp/conversor/releases/download/v0.2.0/ConversorPxToolsWWP.exe",
-  "sha256": "3c82e72361fc6c5eeafb162e26c51863fb6f7f8bbe1688c748a0bf87048f816f",
-  "notas": "Primera versión publicada: convierte Selection completo, Sección Grilla, Sección Filtros y Botones/Acciones. Incluye pestaña Reportar, bitácora de conversiones y actualización automática."
+  "version": "0.3.0",
+  "url": "https://github.com/pxtools2wwp/conversor/releases/download/v0.3.0/ConversorPxToolsWWP.exe",
+  "sha256": "89b4d0cdb21e7165f204aaf8fcfb2e456d59ce60c2194b6c035290bc0c71c734",
+  "notas": "Instructivos más claros en las cuatro pestañas y corrección del reemplazo del ejecutable al actualizar."
 }
