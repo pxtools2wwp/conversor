@@ -37,6 +37,9 @@ La ventana tiene una pestaña por cada tipo de nodo que se copia desde GeneXus:
 | Forma 3 · Sección Filtros | `Filter › Attributes` | `TableMain` |
 | Forma 4 · Botones / Acciones | nodo `Action` | `Grid` si *In Grid=True*, si no `TableMain` |
 
+> **PD:** «se copia» se refiere siempre a un nodo del árbol de **GeneXus X Evolution 1 (PxTools)**, y «se pega» a un nodo del árbol de **GeneXus 18 con WorkWithPlus**.
+> En las Formas 1, 2 y 3 el destino es siempre el nodo `TableMain`. En la Forma 4 depende de la propiedad *In Grid* del botón en PxTools: si vale `True` se pega en el nodo `Grid`, y si vale `False` o no existe, en `TableMain`.
+
 Pasos, siempre los mismos: **1 Pegar entrada → 2 Convertir → 3 Copiar salida**.
 Cada pestaña trae las capturas con el nodo exacto de origen y de destino.
 
