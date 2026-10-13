@@ -1,6 +1,6 @@
 {
-  "version": "0.3.0",
-  "url": "https://github.com/pxtools2wwp/conversor/releases/download/v0.3.0/ConversorPxToolsWWP.exe",
-  "sha256": "89b4d0cdb21e7165f204aaf8fcfb2e456d59ce60c2194b6c035290bc0c71c734",
-  "notas": "Instructivos más claros en las cuatro pestañas y corrección del reemplazo del ejecutable al actualizar."
+  "version": "0.3.1",
+  "url": "https://github.com/pxtools2wwp/conversor/releases/download/v0.3.1/ConversorPxToolsWWP.exe",
+  "sha256": "a960ecddff210e77279417e8d354d9c580082bd396d1efc91a50e3f749adcf14",
+  "notas": "Instructivo más breve en las cuatro pestañas, igual al README."
 }
