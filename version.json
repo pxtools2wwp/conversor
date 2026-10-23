@@ -1,6 +1,6 @@
 {
-  "version": "0.4.0",
-  "url": "https://github.com/pxtools2wwp/conversor/releases/download/v0.4.0/ConversorPxToolsWWP.exe",
-  "sha256": "8f3bb59e210b499a19b0e8a2beb19e2522183eb63ae0864758d11e538bffa76c",
-  "notas": "Corrección en la actualización automática; botones y acciones, selección múltiple, variables y orden de la grilla."
+  "version": "0.4.1",
+  "url": "https://github.com/pxtools2wwp/conversor/releases/download/v0.4.1/ConversorPxToolsWWP.exe",
+  "sha256": "3308deaa8c25e381bd7a03248a23b90b307b94d4f928188282deed7053606180",
+  "notas": "Corrección: la actualización automática fallaba con un error de validación de seguridad."
 }
