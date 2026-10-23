@@ -1,6 +1,6 @@
 {
-  "version": "0.3.2",
-  "url": "https://github.com/pxtools2wwp/conversor/releases/download/v0.3.2/ConversorPxToolsWWP.exe",
-  "sha256": "00d46a959581bf370b198d1aed0958cae48424add6f9ffaa02cc83963b6cda76",
-  "notas": "Instructivo más legible y los tres botones del flujo con color."
+  "version": "0.4.0",
+  "url": "https://github.com/pxtools2wwp/conversor/releases/download/v0.4.0/ConversorPxToolsWWP.exe",
+  "sha256": "8f3bb59e210b499a19b0e8a2beb19e2522183eb63ae0864758d11e538bffa76c",
+  "notas": "Corrección en la actualización automática; botones y acciones, selección múltiple, variables y orden de la grilla."
 }
